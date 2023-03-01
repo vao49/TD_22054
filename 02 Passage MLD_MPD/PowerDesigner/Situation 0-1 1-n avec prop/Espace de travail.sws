@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="16.6.10.6261"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{526A095E-B36F-46CB-81A8-C0073EF173D8}" Name="Situation 1-n 1-n avec prop" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../Situation 1-n 1-n avec prop/Situation 1-n 1-n avec prop.prj"/>
+	</Local>
+	<BrowserModule Name="Repository"/>
+</Workspace>

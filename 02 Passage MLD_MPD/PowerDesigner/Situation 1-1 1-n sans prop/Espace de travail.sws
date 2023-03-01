@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{569F9CB5-ACB4-4B25-8AF6-1606B8ADD2FB}" Name="Situation 1-1 1-n sans prop" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Situation 1-1 1-n sans prop.prj"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
